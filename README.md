@@ -216,5 +216,7 @@ FROM (
 ) x
 GROUP BY 1;
 
+![category](https://github.com/Suchi0506/SQL-project-on-Retail-Insights/assets/140787972/6c5f227f-cbfd-4c4a-a759-b33118f6d088)
+
 Similar Queries were written for Product sub_category
 
