@@ -220,3 +220,6 @@ GROUP BY 1;
 
 Similar Queries were written for Product sub_category
 
+![Subcategory](https://github.com/Suchi0506/SQL-project-on-Retail-Insights/assets/140787972/f1d48d61-207b-4cc4-b75d-4e52b701828a)
+![subcategory2](https://github.com/Suchi0506/SQL-project-on-Retail-Insights/assets/140787972/8cb130b9-667b-4a2e-b632-a9f0d83c6df5)
+
